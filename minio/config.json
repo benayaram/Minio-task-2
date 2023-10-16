@@ -1,0 +1,7 @@
+{
+    "endPoint": "your-minio-endpoint",
+    "port": 9000,
+    "useSSL": false,
+    "accessKey": "awW8ZyJSKL64DZebEPeI",
+    "secretKey": "2Dmd8z9d5WB9yjIEfgnagcXa8JE1gkRhY1POsewi"
+  }
